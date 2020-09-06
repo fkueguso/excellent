@@ -1,0 +1,15 @@
+<template>
+ <div></div>
+</template>
+module.exports={
+data(){
+return{
+list:"我是彭玉杰"
+}
+},
+mounted(){},
+computed:{},
+watch:{},
+props:[],
+methods:{},
+}
